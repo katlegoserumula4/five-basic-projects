@@ -1,0 +1,13 @@
+civic
+level
+radar
+school
+car
+rotator
+racecar
+tut
+stats
+tenet
+people
+mall
+stats
